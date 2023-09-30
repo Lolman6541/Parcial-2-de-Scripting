@@ -9,8 +9,7 @@ Consideraciones y Particularidades del Diseño Orientado a Objetos:
 Consideraciones y particularidades del Proyecto:
 
 - El proyecto se enfoca en implementar un juego de carreras de motos que se centra en la personalización de componentes para mejorar los parámetros del vehículo. Los requisitos funcionales incluyen la personalización de partes (llantas, chasis, motor, etc.) y la lógica asociada a cómo afectan a los parámetros de la moto.
-- Se realiza la implementación de pruebas unitarias utilizando NUnit para validar que cada parte de la moto y sus funcionalidades. Se prueban escenarios como la creación de la moto, la adición de partes, y la modificación de parámetros.
-
+- Se realiza la implementación de pruebas unitarias utilizando NUnit para validar cada parte de la moto y sus funcionalidades. Se prueban escenarios como la creación de la moto, la adición de partes, y la modificación de parámetros.
 
 Integrantes :
 Juan Pablo Arango Zuleta y Abraham Peláez Trujillo 
